@@ -56,3 +56,16 @@ Libraries:
   - Visualization: matplotlib, seaborn
   - Machine Learning: scikit-learn, xgboost
   - Environment: Jupyter Notebook
+Model Pipeline
+Data Collection → EDA → Preprocessing → Feature Engineering → 
+Model Training → Evaluation → Deployment Ready
+⚙️ Installation & Setup
+.Prerequisites
+.Python 3.8 or higher
+
+pip (Python package manager)
+
+Step-by-Step Setup
+1-Clone the Repository
+git clone https://github.com/[votre-username]/projet-churn-prediction.git
+cd projet-churn-prediction
