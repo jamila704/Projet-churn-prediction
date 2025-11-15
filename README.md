@@ -56,7 +56,8 @@ Libraries:
   - Visualization: matplotlib, seaborn
   - Machine Learning: scikit-learn, xgboost
   - Environment: Jupyter Notebook
-Model Pipeline
+
+### Model Pipeline
 Data Collection → EDA → Preprocessing → Feature Engineering → 
 Model Training → Evaluation → Deployment Ready
 ⚙️ Installation & Setup
